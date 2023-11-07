@@ -1,1 +1,1 @@
-# Q1-Typescript-Assisgnment
+# Q1-Typescript-Assignment
